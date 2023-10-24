@@ -1,4 +1,4 @@
-# Bienvenidx <span style="color: yellow;">Texto amarillo</span>
+# Bienvenidx 
 Hola, soy Sheccid Leija, estudiante de tercer semestre de Ingeniería en Tecnologías Computacionales, amante de la robótica y gymrat. Por las tardes soy barista en una cafetería, soy la barbie que puede ser todo lo que quiera ser
 
 ## Trayectoria Profesional
